@@ -1,0 +1,2 @@
+# GitNewRepository
+Creating new repository.
